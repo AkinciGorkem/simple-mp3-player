@@ -1,0 +1,15 @@
+C:\Users\grkma\OneDrive\Masaüstü\Projelerim\MP3Player\bin\Release\MP3Player.exe.config
+C:\Users\grkma\OneDrive\Masaüstü\Projelerim\MP3Player\bin\Release\MP3Player.exe
+C:\Users\grkma\OneDrive\Masaüstü\Projelerim\MP3Player\bin\Release\MP3Player.pdb
+C:\Users\grkma\OneDrive\Masaüstü\Projelerim\MP3Player\bin\Release\TagLibSharp.dll
+C:\Users\grkma\OneDrive\Masaüstü\Projelerim\MP3Player\bin\Release\TagLibSharp.pdb
+C:\Users\grkma\OneDrive\Masaüstü\Projelerim\MP3Player\bin\Release\TagLibSharp.xml
+C:\Users\grkma\OneDrive\Masaüstü\Projelerim\MP3Player\obj\Release\MP3Player.csproj.AssemblyReference.cache
+C:\Users\grkma\OneDrive\Masaüstü\Projelerim\MP3Player\obj\Release\MP3Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\grkma\OneDrive\Masaüstü\Projelerim\MP3Player\obj\Release\MP3Player.MainForm.resources
+C:\Users\grkma\OneDrive\Masaüstü\Projelerim\MP3Player\obj\Release\MP3Player.Properties.Resources.resources
+C:\Users\grkma\OneDrive\Masaüstü\Projelerim\MP3Player\obj\Release\MP3Player.csproj.GenerateResource.cache
+C:\Users\grkma\OneDrive\Masaüstü\Projelerim\MP3Player\obj\Release\MP3Player.csproj.CoreCompileInputs.cache
+C:\Users\grkma\OneDrive\Masaüstü\Projelerim\MP3Player\obj\Release\MP3Player.csproj.CopyComplete
+C:\Users\grkma\OneDrive\Masaüstü\Projelerim\MP3Player\obj\Release\MP3Player.exe
+C:\Users\grkma\OneDrive\Masaüstü\Projelerim\MP3Player\obj\Release\MP3Player.pdb
